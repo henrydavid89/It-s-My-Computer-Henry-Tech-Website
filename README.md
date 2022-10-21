@@ -1,1 +1,1 @@
-# ist-my-computer.
+# ist-my-computer
