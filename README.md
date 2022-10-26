@@ -1,1 +1,1 @@
-# ist-my-computer.github.io
+# Its-my-computer.github.io
